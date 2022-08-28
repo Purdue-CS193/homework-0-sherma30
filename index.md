@@ -1,22 +1,9 @@
-## Hello There
+# Reina Sherman's First CS193 Homework
 
-I hope this works out well, it took me forever to figure this out.
-
-### GitHub
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+- Real coding
+- Taught by students
+- You can ask for help on Ed Discussion
+- Smaller class sizes
+- No expensive textbook
+- Easy homework (so far)
+- :)
